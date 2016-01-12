@@ -3,18 +3,30 @@
   "version": "2.0.0",
   "homepage": "https://github.com/nakalissi/price-format.git",
   "authors": [
-    "Flavio Silveira <flavio@gmail.com>",
-    "Matheus Gomes <matheusgomesweb@gmail.com>"
+    "name": "Eduardo Cuducos",
+    "url": "http://about.me/cuducos"
   ],
-  "description": "jQuery Price Format Plugin is a plugin to format input text fields as prices.",
+  "maintainers": [
+    {
+      "name": "Flavio Silveira",
+      "email": "flavioaugustosilveira@gmail.com",
+      "url": "http://flaviosilveira.com"
+    }
+  ],
   "main": "jquery.price_format.js",
-  "keywords": [
-    "price",
-    "number",
-    "currency",
-    "format",
-    "mask"
+  "description": "jQuery Price Format plugin is useful to format input text fields or any HTML element as prices.",
+  "moduleType": [
+    "globals",
+    "node",
+    "yui"
   ],
+  "keywords": [
+    "angular",
+    "mask",
+    "ngMask",
+    "best"
+  ],
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -22,7 +34,11 @@
     "test",
     "tests"
   ],
+  "bugs": "https://github.com/flaviosilveira/Jquery-Price-Format/issues",
+  "homepage": "https://jquerypriceformat.com",
+  "docs": "https://jquerypriceformat.com",
+  "download": "https://jquerypriceformat.com",
   "dependencies": {
-    "jquery": ">= 1.9.0"
+    "jquery": ">=1.9"
   }
 }

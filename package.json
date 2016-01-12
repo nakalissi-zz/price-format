@@ -1,22 +1,43 @@
 {
   "name": "price-format-jquery",
   "version": "2.0.0",
-  "description": "jQuery Price Format Plugin is a plugin to format input text fields as prices.",
+  "homepage": "https://github.com/nakalissi/price-format.git",
+  "authors": [
+    "name": "Eduardo Cuducos",
+    "url": "http://about.me/cuducos"
+  ],
+  "maintainers": [
+    {
+      "name": "Flavio Silveira",
+      "email": "flavioaugustosilveira@gmail.com",
+      "url": "http://flaviosilveira.com"
+    }
+  ],
   "main": "jquery.price_format.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nakalissi/price-format.git"
-  },
-  "author": {
-    "name": "Flavio Silveira",
-    "email": "matheusgomesweb@gmail.com",
-    "url": "http://flaviosilveira.com"
-  },
+  "description": "jQuery Price Format plugin is useful to format input text fields or any HTML element as prices.",
+  "moduleType": [
+    "globals",
+    "node",
+    "yui"
+  ],
+  "keywords": [
+    "angular",
+    "mask",
+    "ngMask",
+    "best"
+  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/flaviosilveira/Jquery-Price-Format/issues"
-  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "bugs": "https://github.com/flaviosilveira/Jquery-Price-Format/issues",
   "homepage": "https://jquerypriceformat.com",
+  "docs": "https://jquerypriceformat.com",
+  "download": "https://jquerypriceformat.com",
   "dependencies": {
     "jquery": ">=1.9"
   }
