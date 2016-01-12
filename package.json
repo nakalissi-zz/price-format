@@ -1,5 +1,5 @@
 {
-  "name": "price-format",
+  "name": "price-format-jquery",
   "version": "2.0.0",
   "description": "jQuery Price Format Plugin is a plugin to format input text fields as prices.",
   "main": "jquery.price_format.js",
