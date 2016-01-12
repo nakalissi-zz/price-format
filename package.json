@@ -5,7 +5,7 @@
   "main": "jquery.price_format.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nakalissi/Jquery-Price-Format.git"
+    "url": "https://github.com/nakalissi/price-format.git"
   },
   "author": {
     "name": "Flavio Silveira",
